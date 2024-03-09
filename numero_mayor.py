@@ -1,4 +1,4 @@
-print("poner 3 numeros cual es menor y la suma de los 3.")
+print("poner 3 numeros imprimir el menor y la suma de los 3.")
 Numero1= int(input("ingrese primer numero: "))
 Numero2= int(input("ingrese el segundo: "))
 Numero3= int(input("ingrese el tercero: "))
